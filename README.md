@@ -12,4 +12,4 @@ Technologies: • Java Development Kit (JDK)
 
 • Maven (for project build management)
 
-#And For Frontend I used HTML,CSS, BootStrap javascript
+#And For Frontend I used HTML,CSS, BootStrap, javascript
